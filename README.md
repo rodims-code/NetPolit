@@ -352,4 +352,4 @@ The goal is to simplify remote network operations and reduce dependence on tradi
 
 # Author
 
-Created by Rodims-Code.
+Created by RODIMS-CODE.
